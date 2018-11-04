@@ -1,0 +1,10 @@
+*.pyc
+__pychache__*
+.idea/
+.ipynb_checkpoints
+*.png
+*.db
+
+
+
+
